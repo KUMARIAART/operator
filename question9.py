@@ -1,0 +1,12 @@
+apple1=10
+apple2=15
+apple3=apple1+apple2
+apple4=apple1,apple2
+apple5=100+apple1
+apple6=apple2+250+apple1
+apple1=apple4+apple5
+print(apple1+apple2)
+print(apple1,apple2)
+print(100+apple1)
+print(apple2+250+apple1)
+print(apple4+apple5)

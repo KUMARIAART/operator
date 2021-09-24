@@ -1,0 +1,9 @@
+a=2.5
+b=7.9
+c=b*a
+a=97
+d=a*b
+e=a/b
+print(b*a)
+print(a*b)
+print(a/b)
