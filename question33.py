@@ -1,0 +1,12 @@
+a=19
+b=16
+c="kirtee"
+d=9
+e=b
+f=c
+g=f
+h=f
+print("a+b"+c+d+e+f)
+print(f+g+h)
+print(a+b+h+g+f)
+print("a+b""+""g"+f)
